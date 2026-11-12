@@ -1,6 +1,3 @@
-# mcp-web-grounding-agent
-MCP-compliant real-time web-grounding and fact-checking agent built with Claude and Python, featuring structured JSON citations and DevEx telemetry
-
 # MCP Web-Grounding & Citation Agent
 
 A real-time research and fact-checking agent built with **Claude**, **Python**, and the **Model Context Protocol (MCP)**. It retrieves live web and news passages, enforces strict JSON citation schemas to prevent hallucinations, and abstracts the search layer for plug-and-play compatibility with enterprise grounding APIs (such as **Microsoft Web IQ**).
